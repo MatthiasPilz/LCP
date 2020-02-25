@@ -1,4 +1,5 @@
-#Hash code quali 2020
+# Hash code quali 2020
+
 a - 21\
 b - 5,822,900\
 c - 5,467,966\
